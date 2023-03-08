@@ -11,7 +11,7 @@ curl_setopt_array($curl, [
 	CURLOPT_CUSTOMREQUEST => "GET",
 	CURLOPT_HTTPHEADER => [
 		"X-RapidAPI-Host: free-to-play-games-database.p.rapidapi.com",
-		"X-RapidAPI-Key: 7e08a1dd1cmshc444092b3b32088p10426cjsn9d250ccd53c5"
+		"X-RapidAPI-Key: yourkey"
 	],
 ]);
 
